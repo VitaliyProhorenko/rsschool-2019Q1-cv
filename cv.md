@@ -1,6 +1,6 @@
 # 1. Prohorenko Vitaliy
 
-## 2. Contacts : email GoonzaPVS@yandex.by and telephone +375297748824  MTS
+## 2. Contacts : email GoonzaPVS@yandex.by and telephone +375445343246 A1
 
 ### 3. Summary : * Raise your practical skills
 
@@ -8,8 +8,8 @@
              
 ###                 * Spend all your strength and knowledge in the name of the company
              
-### 4. Skils : HTML, CSS, JS, PHP, Salesforce, SQL
+### 4. Skils : HTML, CSS, JS, Salesforce, SQL
 
-### 5. Education: BNTU, IT-Academy, Youtube
+### 5. Education: BNTU, IT-Academy, Youtube, IT-Inkubator
 
 ### 6. English level Elementary
